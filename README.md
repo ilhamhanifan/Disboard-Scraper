@@ -1,7 +1,7 @@
 # Disboard-Scraper
 Disboard Scraper to get invite link
 
-Replace **XXX**, With your OWN scrapingant API TOKEN.
+Replace **XXX**, With your OWN https://scrapingant.com API TOKEN.
 
 Documentation you need to read :
 
